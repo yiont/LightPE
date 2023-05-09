@@ -26,7 +26,7 @@
   •
   <a href="">Documentation</a>
   •
-  <a href="">Forum</a>
+  <a href="">Telegram</a>
 </p>
 
 # 🤔什么是雷电PE？
