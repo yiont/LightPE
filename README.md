@@ -1,3 +1,7 @@
+<p>
+  <a href="">日本語</a>
+  <a href="">English</a>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/yiont/LightPE/main/image/light.png" alt="LightPE" width="150" style="border-radius: 30px">
 </p>
@@ -21,4 +25,5 @@
   •
   <a href="">Forum</a>
 </p>
+
 # 雷电PE
