@@ -1,4 +1,6 @@
 <p>
+  <a href="">繁體中文</a>
+  |
   <a href="">日本語</a>
   |
   <a href="">English</a>
