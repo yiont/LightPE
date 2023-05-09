@@ -9,5 +9,5 @@
     <img alt"Release" src="https://raw.githubusercontent.com/yiont/LightPE/main/image/release.png">
   </a>
 </p>
-
+<h4 align="center">强大、可扩展、可定制的Windows PE系统。</h4>
 # 雷电PE
