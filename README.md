@@ -14,7 +14,7 @@
 </p>
 <h4 align="center">强大、可扩展、可定制的Windows PE系统。</h4>
 
-<p>
+<p align="center">
   <a href="">Website</a>
   •
   <a href="">Documentation</a>
