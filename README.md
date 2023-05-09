@@ -1,5 +1,6 @@
 <p>
   <a href="">日本語</a>
+  |
   <a href="">English</a>
 </p>
 <p align="center">
