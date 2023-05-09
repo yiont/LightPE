@@ -1,3 +1,4 @@
 # 雷电PE
-功能强大、可扩展、可定制Windows PE系统。。 
-![雷电PE Logo](light.png)
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/yiont/LightPE/main/light.png" alt="LightPE" width="900" style="border-radius: 30px">
+</h1>
