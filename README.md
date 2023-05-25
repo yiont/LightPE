@@ -21,14 +21,6 @@
 </p>
 <h4 align="center">强大、可扩展、可定制的Windows PE系统。</h4>
 
-<p align="center">
-  <a href="">Website</a>
-  •
-  <a href="">Documentation</a>
-  •
-  <a href="">Telegram</a>
-</p>
-
 # 🤔什么是雷电PE？
 顾名思义，雷电PE是基于Windows的PE系统。雷电PE提供许多实用的工具，让你对你原有的系统进行修改和维护。
 雷电PE与众多PE不同的地方为，它允许你连上网络，并且可扩展，最重要的是「轻量」，这也使其成为最佳的PE系统之一。
